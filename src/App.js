@@ -5,7 +5,7 @@ import React, { Component } from 'react';
 import './App.css';
 import UserVideoComponent from './UserVideoComponent';
 
-const APPLICATION_SERVER_URL = "http://localhost:8080";
+const APPLICATION_SERVER_URL = "http://drkko.site:8080";
 
 
 class App extends Component {
